@@ -9,6 +9,7 @@ model architecture for their classification problems (i.e., DNNs with different 
 The library enables you to:
 
 THIS TEXT IS UPDATE!!!
+THIS TEXT IS UPDATE 2!!!
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
