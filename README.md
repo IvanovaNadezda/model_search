@@ -8,7 +8,7 @@ model architecture for their classification problems (i.e., DNNs with different 
 
 The library enables you to:
 
-THIS TEXT IS UPDATE!!!
+TEXT IS UPDATE!!!
 THIS TEXT IS UPDATE 2!!!
 THIS TEXT IS UPDATE 3!!!
 
