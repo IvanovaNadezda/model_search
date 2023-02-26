@@ -14,6 +14,7 @@ THIS TEXT IS UPDATE IN BRANCH1 3
 THIS TEXT IS UPDATE IN BRANCH2 1
 THIS TEXT IS UPDATE IN BRANCH2 2
 THIS TEXT IS UPDATE IN BRANCH2 3
+FINAL PART
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
