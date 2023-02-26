@@ -10,7 +10,7 @@ The library enables you to:
 
 TEXT IS UPDATE!!!
 TEXT IS UPDATE 2!!!
-THIS TEXT IS UPDATE 3!!!
+TEXT IS UPDATE 3!!!
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
