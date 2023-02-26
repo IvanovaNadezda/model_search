@@ -9,7 +9,7 @@ model architecture for their classification problems (i.e., DNNs with different 
 The library enables you to:
 
 TEXT IS UPDATE!!!
-THIS TEXT IS UPDATE 2!!!
+TEXT IS UPDATE 2!!!
 THIS TEXT IS UPDATE 3!!!
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
