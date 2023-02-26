@@ -8,6 +8,7 @@ model architecture for their classification problems (i.e., DNNs with different 
 
 The library enables you to:
 
+<<<<<<< HEAD
 THIS TEXT IS UPDATE IN BRANCH1 1
 THIS TEXT IS UPDATE IN BRANCH1 2
 THIS TEXT IS UPDATE IN BRANCH1 3
@@ -15,6 +16,11 @@ THIS TEXT IS UPDATE IN BRANCH2 1
 THIS TEXT IS UPDATE IN BRANCH2 2
 THIS TEXT IS UPDATE IN BRANCH2 3
 FINAL PART
+=======
+TEXT IS UPDATE!!!
+TEXT IS UPDATE 2!!!
+TEXT IS UPDATE 3!!!
+>>>>>>> branch1
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
